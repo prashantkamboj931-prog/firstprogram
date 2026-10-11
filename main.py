@@ -1,3 +1,6 @@
-print("hello prashant kamboj....")
+print("Hello, Git and GitHub!")
 
-print("hello prashant how are you....")
+name = "Student"
+print(f"Welcome, {name}!")
+
+print("I am learning AI Full Stack Development.")
